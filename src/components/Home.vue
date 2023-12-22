@@ -29,7 +29,7 @@ export default {
 <template>
     <div id="create-bnt-area" class="text-center">
       <div id="developed_by" class="justify-content-center">
-        <h3 class="mb-0 opacity-75">vue js 3.3.4 | Flask 3.0.0 | SQLAlchemy 2.0.23 | SQLite 3.42.0</h3>
+        <h3 class="mb-0 opacity-75">Vue.js 3.3.4 | Flask 3.0.0 | SQLAlchemy 2.0.23 | SQLite 3.42.0</h3>
         <h3 class="mb-0 opacity-75">Developed by Oleksandr Zakharchuk</h3>
       </div>
         <button id="create_invoice" type="button" class="btn btn-success btn-lg">
